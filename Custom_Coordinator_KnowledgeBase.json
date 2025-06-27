@@ -1,0 +1,52 @@
+{
+  "Sheet1": [
+    {
+      "Field": "Company Name",
+      "Value": "ABC Fundraising"
+    },
+    {
+      "Field": "Description",
+      "Value": "ABC Fundraising is a full-service fundraising company that helps schools, sports teams, and nonprofits raise money easily and successfully. We handle all the details, guide you through every step, and provide proven fundraisers with high profit margins."
+    },
+    {
+      "Field": "Address",
+      "Value": "1987 E Comisky Ct, Meridian, ID 83646"
+    },
+    {
+      "Field": "Phone Number",
+      "Value": "208-914-1248"
+    },
+    {
+      "Field": "Website",
+      "Value": "www.bestaisolutions.com"
+    },
+    {
+      "Field": "Years in Business",
+      "Value": "7 years"
+    },
+    {
+      "Field": "Fundraisers Run",
+      "Value": "Over 1,500 total\nOver 250 each year"
+    },
+    {
+      "Field": "Amount Raised",
+      "Value": "Over $2.5 million total\nOver $500 thousand each year"
+    },
+    {
+      "Field": "Delivery Radius (Service Area)",
+      "Value": "100 miles from Boise, ID"
+    },
+    {
+      "Field": "Delivery Fee - Less than 500 units",
+      "Value": "$200"
+    },
+    {
+      "Field": "Delivery Fee - 500 or more units",
+      "Value": "Free ($0)"
+    },
+    {
+      "Field": "Products Offered",
+      "Value": "- Butter Braid: Price $20/unit, Profit $6/unit, Frozen\n- Cookie Dough: Price $15/unit, Profit $5/unit, Frozen\n- Popcorn: Price $10/unit, Profit $4/unit, Shelf Stable"
+    }
+  ]
+}
