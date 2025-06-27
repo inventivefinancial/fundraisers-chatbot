@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Node/npm (if you later add a static viewer)
+node_modules/
+
+# General
+*.log
+*.tmp
+*.bak
